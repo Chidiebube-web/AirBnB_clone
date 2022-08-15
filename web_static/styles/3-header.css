@@ -1,7 +1,14 @@
-header{
+header {
   	background-color: #fff;
   	height: 70px;
   	width: 100%;
   	border-bottom: 1px solid #ccc;
-	padding-left: 20px;
+	padding: 10px 20px;
+}
+
+.logo {
+	background-image: url('../images/hbnb.png');
+    	height: 100%;
+    	width: 140px;
+    	border-bottom: none;
 }
